@@ -17,3 +17,6 @@ This drone is controlled using a **custom-built transmitter**, available in anot
 ## 🎥 Demo Video  
 Watch the drone in action!  
 📽️ **[Facebook Video](https://www.facebook.com/share/p/15Dc3oyDyG/)**  
+
+## References
+- [Carbon Aeronautics](https://youtube.com/@carbonaeronautics?si=-DZ1Sz5sgNruoJgR)
